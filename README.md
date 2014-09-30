@@ -24,7 +24,7 @@ git clone https://github.com/marklma/marklma-opoopress-theme.git
 + 根据备份的自定义文件修改marklma-opoopress-theme主题中`/site/config.yml`和`/site/config.rb`的相关信息
 
 ## demo
-[demo](https://github.com/marklma/marklma-opoopress-theme)
+[demo](http://marklma.ga)
 
 ##　TODOLIST
 + 将默认主题修改为bootstrap
