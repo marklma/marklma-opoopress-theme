@@ -15,12 +15,13 @@ marklma-opoopress-theme
 
 ## 使用方法
 
++ 备份原自定义文件`/site/config.yml`、`/site/config.rb`以及默认模板`/site/templates/`
 + 下载主题
 ```
 git clone https://github.com/marklma/marklma-opoopress-theme.git
 ```
-+ 备份原自定义文件`/site/config.yml`、`/site/config.rb`以及默认模板`/site/templates/`
 + 将主题中内容替换默认模板，如路径`/site/`
++ 根据备份的自定义文件修改marklma-opoopress-theme主题中`/site/config.yml`和`/site/config.rb`的相关信息
 
 ## demo
 [demo](https://github.com/marklma/marklma-opoopress-theme)
